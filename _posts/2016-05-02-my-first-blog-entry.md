@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: My First Blog Entry
-datePublished: '2016-05-02T12:45:34.178Z'
-dateModified: '2016-05-02T12:45:27.305Z'
+datePublished: '2016-05-02T12:46:47.707Z'
+dateModified: '2016-05-02T12:45:38.920Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-my-first-blog-entry.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-my-first-blog-entry.md
-published: true
 url: my-first-blog-entry/index.html
 _type: Article
 

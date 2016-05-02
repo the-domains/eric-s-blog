@@ -1,0 +1,28 @@
+name: "Eric's Blog"
+favicon: null
+layout_spectrum: 0.6691697898786515
+typography_spectrum: 0.07377591263502836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09469395992346108
+  lightness: 0.1148684211075306
+  saturation: 0.099048703443259
+  rhythmicContrast: 0.8093528219033033
+purpose: []

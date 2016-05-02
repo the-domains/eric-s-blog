@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is another post
-datePublished: '2016-05-02T12:52:07.392Z'
-dateModified: '2016-05-02T12:51:27.994Z'
+datePublished: '2016-05-02T21:51:03.276Z'
+dateModified: '2016-05-02T12:52:22.750Z'
 title: Another post
 author: []
+sourcePath: _posts/2016-05-02-another-post.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-another-post.md
-published: true
 url: another-post/index.html
 _type: Article
 

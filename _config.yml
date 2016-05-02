@@ -1,7 +1,7 @@
 name: "Eric's Blog"
 favicon: null
-layout_spectrum: 0.6691697898786515
-typography_spectrum: 0.07377591263502836
+layout_spectrum: 0.9809
+typography_spectrum: 0.14225
 cta:
   domain: null
   bucket: null

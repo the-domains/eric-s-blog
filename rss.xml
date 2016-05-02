@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eric's Blog]]></title>
         <description><![CDATA[Eric's Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eric-s-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 12:46:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 12:47:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-s-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61549a63-f235-433b-a562-749d67d47e86.jpg">]]></description>
-            <link>undefinedmy-first-blog-entry/index.html</link>
+            <link>https://thegrid.ai/eric-s-blog/my-first-blog-entry/index.html</link>
             <guid isPermaLink="false">f7a91e7e-5362-4877-8852-29286ef82176</guid>
-            <pubDate>Mon, 02 May 2016 12:45:34 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 12:46:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
